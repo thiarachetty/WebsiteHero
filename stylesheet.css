@@ -1,0 +1,59 @@
+.gallery img{
+    width: 100%;
+}
+body{
+    background-image: url(HeroImage/backgroundimage2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#menu a{
+    font-family: 'Impact', fantasy;
+    font-size: xx-large;
+    color: goldenrod;
+    background-color: red;
+    text-decoration: none;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#menu a:hover{
+    color: gold;
+    font-family: 'Impact',fantasy;
+    font-size: xx-large;
+}
+h2 {
+    font-family: fantasy;
+    font-size: xx-large;
+    margin: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    background-image: url(HeroImage/banner.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    color: black;
+}
+h3 {
+    font-family: fantasy;
+    font-size: xx-large;
+    margin: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    background-color: aquamarine;
+    color: black;
+}
+#Information{
+    background-color: rgb(177, 190, 202);
+    padding: 10px;
+    list-style-type: circle;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+#Information2 {
+    background-color: rgb(177, 190, 202);
+    padding: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
